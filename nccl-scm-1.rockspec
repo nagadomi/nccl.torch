@@ -2,12 +2,12 @@ package = "nccl"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/ngimel/nccl.torch.git",
+   url = "git://github.com/nagadomi/nccl.torch.git",
 }
 
 description = {
    summary = "Torch7 FFI bindings for NVIDIA nccl kernels!",
-   homepage = "https://github.com/ngimel/nccl.torch",
+   homepage = "https://github.com/nagadomi/nccl.torch",
    license = "BSD"
 }
 
